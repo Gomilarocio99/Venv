@@ -14,5 +14,5 @@ El pip es el gestor de paquetes de Python, utilizado para instalar y gestionar b
 ##Commit y push al repositorio remoto
 #Realizamos el primer commit con la configuración inicial y el entorno virtual: #git add .
 #git commit -m "Primer commit con configuración inicial y entorno virtual"
-#Añadimos el repositorio remoto: #git remote add origin https://github.com/Gomilarocio99/python-final.git
+#Añadimos el repositorio remoto: #git remote add origin https://Gomilarocio99@github.com/Gomilarocio99/Venv.git
 #Empujamos los cambios al repositorio remoto: # git push 
