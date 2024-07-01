@@ -9,7 +9,9 @@
 #Activamos el entorno virtual: #venv/scripts/activate     
 #Actualizamos pip a su última versión: #python3 -m pip install --upgrade pip
 ###Respuesta del ejercicio 11:###
-El pip es el gestor de paquetes de Python, utilizado para instalar y gestionar bibliotecas y dependencias. Actualizar pip garantiza que tenemos acceso a las últimas características y correcciones de seguridad.
+El pip es el gestor de paquetes de Python, utilizado para instalar y gestionar bibliotecas
+y dependencias. Actualizar pip garantiza que tenemos acceso a las últimas características y
+correcciones de seguridad.
 
 ##Commit y push al repositorio remoto
 #Realizamos el primer commit con la configuración inicial y el entorno virtual: #git add .
